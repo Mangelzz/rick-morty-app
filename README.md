@@ -1,8 +1,17 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Rick and morty App
 
-Currently, two official plugins are available:
+A react project using an Api such as Rick and morty API, also i'm using tailwind css for the styles, i'm using fetch, react-router-dom, props, etc.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Technologies used
+
+ - [React js](https://react.dev/)
+ - [React Router Dom](https://reactrouter.com/en/main)
+ - [Tailwind CSS](https://tailwindcss.com/)
+
+
+## Screenshots
+
+![App Screenshot](https://ibb.co/Kb9tg7y)
+
